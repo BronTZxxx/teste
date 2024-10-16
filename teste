@@ -4,11 +4,11 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x19BDE30"
+                "value": "0x19BBCC8"
             },
             {
                 "name": "dwGlobalVars",
-                "value": "0x1819000"
+                "value": "0x1816FF0"
             },
             {
                 "name": "dwLocalPlayerController",
@@ -416,4 +416,4 @@
             }
         ]
     }
-} 
+}
